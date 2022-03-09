@@ -1,0 +1,63 @@
+HTML
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AC Games</title>
+
+    <!-- Estilização Global -->
+    <link rel="stylesheet" href="./css/styles.css">
+    <!-- Estilização Específica -->
+    <link rel="stylesheet" href="./css/home.css">
+    <script src="https://kit.fontawesome.com/6fccb2eb21.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header id="cabecalho">
+        <nav class="wrapper flex">
+            <a>
+                <i class="fa-thin fa-gamepad-modern"></i>
+                <h3>AC Games</h3>
+            </a>
+            <div class="links_menu">
+                <a href="./pages/Jogos e preços.html" class="link_ativo">Jogos e Preços</a>
+                <a href="./pages/EspaçodoUsuário.html">Espaço do usuário</a>
+            </div>
+        </nav>
+    </header>
+    <main>
+        < class="wrapper" id="post inicial">
+            <article class="post">
+                <header class="cabecalho_post flex">
+                </header>
+                <div class="post_AC Games">
+                    <h2>Titulo post 1</h2>
+                    <p>Aqui na AC Games, o seu jogo dos sonhos, se torna realidade</p>
+                </div>
+            </article>
+            <article class="sobre a empresa"> 
+                <header class="cabecalho_post flex">
+                    <i class="fa-thin fa-gamepad-modern"></i>"
+                </header>
+                <div class="sobre a empresa">
+                    <i class="fa-thin fa-gamepad-modern"></i>
+                    <h2>AC Games</h2>
+                    <h2>sobre a empresa</h2>
+                        <p>A AC Games é uma empresa do ramo de tecnologia mais voltada para os videogames, aqui nosso foco é total no desejo do cliente, o que ele quer, nós temos o dever e a obrigação de atender ao seu pedido.
+                        Somos uma distribuidora de jogos, criamos nossos próprios jogos para as mais diversas plataformas e além disso através dos pedidos dos clientes criamos os seus próprios jogos virtuais.</p>
+                </div>
+            </article>
+            <div class="">
+
+            </div>
+            
+            
+            
+----------------------------------------------------------------------------------------------------------------------------------
+
+CSS
+
